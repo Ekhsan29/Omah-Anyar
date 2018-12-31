@@ -1,7 +1,7 @@
 {
   "name": "Omah Anyar",
-  "description": "Bot Dari Server Omah Anyar",
-  "version": "0.0.1",
+  "description": "test",
+  "version": "0.0.0",
   "main": "omahanyar.js",
   "scripts": {
     "start": "node omahanyar.js"
