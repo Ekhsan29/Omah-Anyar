@@ -1,1 +1,1 @@
-worker : node omahanyar.js
+worker: node omahanyar.js
