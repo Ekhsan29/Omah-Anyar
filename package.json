@@ -1,0 +1,13 @@
+{
+  "name": "Omah Anyar",
+  "description": "Bot Dari Server Omah Anyar",
+  "version": "0.0.1",
+  "main": "omahanyar.js",
+  "scripts": {
+    "start": "node omahanyar.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
