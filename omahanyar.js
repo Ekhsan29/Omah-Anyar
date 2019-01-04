@@ -23,10 +23,10 @@ bot.on("message", async message => {
         message.channel.sendMessage("saya aktif!");
     }
     
-    if (message.content == "pagi") {
+    if (message.content ==  prefix + "pagi") {
         message.channel.sendMessage("`Pagi juga` ");
     }
-    if (message.content == "Hai") {
+    if (message.content ==  prefix + "Hai") {
         message.channel.sendMessage("*Hai.... Halo... Hai...*");
     }
     
